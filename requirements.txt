@@ -1,0 +1,6 @@
+html2text
+nltk
+db-sqlite3
+fastai==1.0.61
+pytest-shutil
+voila
