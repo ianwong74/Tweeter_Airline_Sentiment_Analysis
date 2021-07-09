@@ -1,6 +1,15 @@
+db-sqlite3
+fastai
+fastai==1.0.61
+gdown
 html2text
 nltk
-db-sqlite3
-fastai==1.0.61
 pytest-shutil
+scikit-plot
+seaborn
+sklearn
+spacy
+textblob
+tweepy
+tweet-preprocessor
 voila
