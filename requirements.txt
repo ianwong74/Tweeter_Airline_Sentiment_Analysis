@@ -14,7 +14,6 @@ seaborn
 sklearn
 spacy==2.3.5
 textblob
-torch==1.5.0
 tweepy
 tweet-preprocessor
 voila
